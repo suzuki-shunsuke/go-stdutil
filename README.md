@@ -1,1 +1,1 @@
-# go-cli-util
+# go-stdutil
